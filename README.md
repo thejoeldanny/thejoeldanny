@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejoeldanny
+- 👋 Hi, I’m Joel Danny
 - 👀 I’m interested in python and c
 - 🌱 I’m currently developing myself to be a developer
 - 💞️ I’m looking to collaborate on my future projects
